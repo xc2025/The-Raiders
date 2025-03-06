@@ -8,11 +8,11 @@ const Questions = [
            ]
     },
     {
-        q: "Fill in the blank: Snow leopards have _____.",
-        a: [{text: "red, with whitish fur.", isCorrect: false},
-            {text: "whitish-gray fur.", isCorrect: true},
-            {text: "black stripes, with orange fur.", isCorrect: false},
-            {text: "white dots with black fur.", isCorrect: false},
+        q: "Fill in the blank: When were the Raiders founded _____.",
+        a: [{text: "1980.", isCorrect: false},
+            {text: "1960.", isCorrect: true},
+            {text: "2000.", isCorrect: false},
+            {text: "1940.", isCorrect: false},
            ]
     },
     {

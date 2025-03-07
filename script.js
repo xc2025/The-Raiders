@@ -16,19 +16,19 @@ const Questions = [
            ]
     },
     {
-        q: "Fill in the blank: Snow leopards use their tails for _____.",
-        a: [{text: "balance.", isCorrect: true},
-            {text: "killing their prey.", isCorrect: false},
-            {text: "grabbing objects.", isCorrect: false},
-            {text: "swinging.", isCorrect: false},
+        q: "Fill in the blank: How many AFC championships have the Raiders won _____.",
+        a: [{text: "4.", isCorrect: true},
+            {text: "2.", isCorrect: false},
+            {text: "5.", isCorrect: false},
+            {text: "0.", isCorrect: false},
            ]
     },
     {
-        q: "Fill in the blank: Snow leopards eat _____.",
-        a: [{text: "frogs.", isCorrect: false},
-            {text: "fish.", isCorrect: false},
-            {text: "lions.", isCorrect: false},
-            {text: "deer.", isCorrect: true},
+        q: "Fill in the blank: How many seasons do the Raiders have _____.",
+        a: [{text: "51.", isCorrect: false},
+            {text: "60.", isCorrect: false},
+            {text: "40.", isCorrect: false},
+            {text: "65.", isCorrect: true},
            ]
     },
     

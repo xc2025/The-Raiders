@@ -32,7 +32,7 @@ const Questions = [
            ]
     },
     
-    // add more questions here....
+    
 ]; 
 
 let currQuestion = 0;

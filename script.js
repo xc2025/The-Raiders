@@ -31,8 +31,22 @@ const Questions = [
             {text: "65.", isCorrect: true},
            ]
     },
-    
-    
+    {
+        q: "Fill in the blank: What are the Raiders main team colors _____.",
+        a: [{text: "Orange and Black.", isCorrect: false},
+            {text: "Red and Blue.", isCorrect: false},
+            {text: "Silver and Black.", isCorrect: true},
+            {text: "Purple and Green.", isCorrect: false},
+           ]
+    },
+    {
+        q: "Fill in the blank: Who was their winningest coach _____.",
+        a: [{text: "John Madden.", isCorrect: True},
+            {text: "Hue Jackson.", isCorrect: false},
+            {text: "Tom Flores.", isCorrect: False},
+            {text: "Antonio Pierce.", isCorrect: false},
+           ]
+    },
 ]; 
 
 let currQuestion = 0;

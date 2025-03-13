@@ -40,7 +40,7 @@ const Questions = [
            ]
     },
     {
-        q: "Fill in the blank: Who was their winningest coach _____.",
+        q: "Fill in the blank: Who was their best winningest coach _____.",
         a: [{text: "John Madden.", isCorrect: True},
             {text: "Hue Jackson.", isCorrect: false},
             {text: "Tom Flores.", isCorrect: False},
